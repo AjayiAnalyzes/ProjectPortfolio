@@ -1,0 +1,1001 @@
+customer_id,name,gender,age,location,membership_status,preferred_category,monthly_spend_usd,total_transactions,signup_date
+C0001,Andrew,Male,56,Lagos,Platinum,Home,149.27,3,2024-04-23
+C0002,Kevin,Male,69,Abuja,Platinum,Electronics,331.4,19,2022-12-22
+C0003,Michael,Female,46,Enugu,Gold,Sports,409.98,15,2024-01-14
+C0004,James,Male,32,Lagos,Silver,Sports,362.27,25,2022-03-16
+C0005,Steven,Male,60,Lagos,Silver,Fashion,341.81,23,2020-10-06
+C0006,Matthew,Male,25,Ibadan,Platinum,Electronics,170.97,5,2023-12-22
+C0007,Theresa,Male,38,Abuja,Platinum,Home,80.81,28,2020-12-13
+C0008,Eddie,Male,56,Abuja,Platinum,Electronics,99.66,10,2025-07-22
+C0009,Robert,Female,36,Enugu,Silver,Electronics,253.75,7,2021-02-15
+C0010,Jennifer,Male,40,Abuja,Silver,Fashion,271.4,25,2025-01-28
+C0011,Michael,Male,28,Lagos,Silver,Home,118.47,17,2025-03-28
+C0012,Chelsea,Male,28,Enugu,Platinum,Sports,59.96,7,2024-07-29
+C0013,Suzanne,Male,41,Abuja,Platinum,Fashion,176.95,22,2021-10-04
+C0014,Michael,Male,53,Enugu,Silver,Fashion,247.29,26,2022-09-10
+C0015,Sheri,Male,57,Abuja,Platinum,Home,,12,2021-02-13
+C0016,Melissa,Male,41,Abuja,Silver,Fashion,56.63,25,2021-12-05
+C0017,Daniel,Female,20,Ibadan,Silver,Home,239.11,17,2021-06-08
+C0018,Natalie,Male,39,Abuja,Silver,Home,274.28,13,2022-06-02
+C0019,Linda,Female,19,Enugu,Gold,Electronics,363.62,20,2024-12-08
+C0020,Bryan,Female,41,Lagos,Gold,Sports,,25,2020-11-18
+C0021,Anthony,Male,61,Ibadan,Platinum,Home,387.76,4,2024-01-09
+C0022,Joshua,Male,47,Abuja,Gold,Fashion,169.93,10,2024-12-11
+C0023,John,Female,55,Abuja,Silver,Fashion,294.44,3,2021-06-12
+C0024,Taylor,Female,19,Enugu,Platinum,Home,453.06,9,2023-03-27
+C0025,Kelly,Female,38,Ibadan,Silver,Sports,221.71,13,2024-09-17
+C0026,Teresa,Male,50,Abuja,Silver,Home,,18,2024-09-13
+C0027,Jacob,Male,29,Lagos,Platinum,Sports,371.61,15,2025-01-17
+C0028,James,Female,39,Lagos,Silver,Electronics,488.74,4,2024-04-02
+C0029,Christian,Male,61,Abuja,Gold,Home,497.54,15,2021-03-17
+C0030,Carol,Male,42,Lagos,Platinum,Home,380.9,22,2022-04-04
+C0031,Amber,Female,66,Ibadan,Gold,Sports,349.7,2,2022-01-06
+C0032,Joseph,Male,44,Abuja,Gold,Electronics,225.11,15,2023-02-27
+C0033,Janice,Female,59,Enugu,Platinum,Electronics,471.3,8,2021-01-28
+C0034,Joseph,Female,45,Ibadan,Silver,Sports,377.71,8,2024-03-14
+C0035,Michael,Female,33,Lagos,Gold,Home,297.31,17,2023-12-24
+C0036,Charles,Male,32,Abuja,Gold,Sports,266.55,12,2021-11-23
+C0037,Stephanie,Female,64,Ibadan,Gold,Sports,212.19,19,2021-01-02
+C0038,Christine,Male,68,Lagos,Platinum,Sports,350.01,10,2023-09-10
+C0039,Katherine,Female,61,Abuja,Silver,Home,156.18,9,2024-08-21
+C0040,Kim,Male,69,Port Harcourt,Silver,Fashion,56.78,5,2023-05-04
+C0041,Ana,Female,20,Enugu,Platinum,Sports,313.11,6,2022-04-02
+C0042,Sara,Female,54,Lagos,Platinum,Electronics,159.39,20,2021-08-23
+C0043,John,Male,68,Lagos,Silver,,311.48,26,2024-01-04
+C0044,Sabrina,Male,24,Port Harcourt,Platinum,Sports,359.78,2,2021-04-02
+C0045,Christopher,Male,38,Port Harcourt,Platinum,,396.86,27,2021-06-12
+C0046,Brittney,Male,26,Ibadan,Platinum,Fashion,274.96,24,2021-12-10
+C0047,Jeffery,Female,56,Enugu,Silver,Electronics,202.29,27,2024-01-29
+C0048,Jenna,Male,35,Enugu,Silver,Sports,391.8,13,2025-05-12
+C0049,Joshua,Male,21,Lagos,Gold,Fashion,209.98,6,2024-03-15
+C0050,Stephen,Male,42,Port Harcourt,Silver,Home,291.36,5,2024-07-30
+C0051,Vanessa,Female,31,Enugu,Silver,Home,269.53,25,2024-03-08
+C0052,Kimberly,Female,67,Abuja,Gold,,301.26,1,2023-07-01
+C0053,Andrea,Female,26,Enugu,Gold,Electronics,206.29,21,2021-03-26
+C0054,Angela,Female,43,Lagos,Silver,Fashion,379.93,22,2021-05-17
+C0055,Joseph,Male,19,Enugu,Platinum,,,21,2025-07-26
+C0056,Melanie,Female,37,Ibadan,Gold,Fashion,375.98,6,2020-12-02
+C0057,Theresa,Female,45,Port Harcourt,Silver,Electronics,67.77,6,2025-01-22
+C0058,Kyle,Male,64,Lagos,Silver,Electronics,301.56,23,2022-03-10
+C0059,Richard,Female,24,Lagos,Gold,Electronics,270.54,16,2022-09-03
+C0060,Andrew,Male,61,Port Harcourt,Platinum,Fashion,294.63,4,2023-04-26
+C0061,April,Male,25,Port Harcourt,Platinum,Sports,260.78,11,2022-02-12
+C0062,Amy,Male,64,Port Harcourt,Silver,,319.41,24,2022-08-22
+C0063,Kimberly,Male,52,Lagos,Gold,Electronics,122.15,23,2023-11-19
+C0064,Jerry,Female,31,Port Harcourt,Gold,Sports,252.22,9,2021-04-21
+C0065,Brett,Female,34,Port Harcourt,Gold,Sports,293.72,23,2021-12-05
+C0066,Vanessa,Female,53,Lagos,Platinum,,399.16,3,2021-05-16
+C0067,Mark,Male,67,Lagos,Platinum,Electronics,380.15,19,2023-01-26
+C0068,Rick,Female,57,Ibadan,Platinum,Home,328.88,8,2020-08-02
+C0069,Judy,Male,21,Enugu,Gold,Fashion,329.09,5,2023-08-29
+C0070,Sarah,Male,19,Abuja,Silver,Fashion,78.5,4,2025-04-30
+C0071,Morgan,Male,23,Lagos,Platinum,Fashion,418.57,24,2024-12-20
+C0072,Courtney,Female,59,Abuja,Gold,,357.45,6,2021-01-19
+C0073,Dawn,Female,21,Ibadan,Gold,Fashion,119.36,2,2024-03-22
+C0074,Samantha,Female,46,Enugu,Silver,Fashion,234.41,20,2020-08-26
+C0075,Austin,Male,35,Enugu,Silver,Fashion,93.32,28,2024-03-27
+C0076,James,Male,43,Enugu,Gold,Sports,69.7,11,2023-03-23
+C0077,Matthew,Female,61,Ibadan,Silver,Electronics,130.39,4,2023-04-27
+C0078,Jessica,Male,51,Port Harcourt,Platinum,Fashion,,15,2023-01-11
+C0079,Christopher,Female,27,Enugu,Gold,Sports,136.23,6,2022-08-17
+C0080,Craig,Female,53,Enugu,Platinum,Sports,,22,2023-05-20
+C0081,Tina,Female,31,Ibadan,Gold,Fashion,224.87,17,2023-09-06
+C0082,Allison,Male,48,Port Harcourt,Platinum,Electronics,330.79,24,2023-10-01
+C0083,Patricia,Female,65,Enugu,Silver,Home,72.09,6,2022-01-22
+C0084,Karen,Male,32,Enugu,Silver,Electronics,373.03,19,2021-03-16
+C0085,Brooke,Male,25,Port Harcourt,Platinum,Home,,25,2025-04-29
+C0086,Darren,Female,31,Lagos,Gold,Fashion,345.09,2,2023-02-28
+C0087,Rachel,Female,40,Lagos,Gold,Home,424.43,15,2020-11-20
+C0088,Kyle,Female,57,Enugu,Platinum,Fashion,337.51,11,2022-08-24
+C0089,Anthony,Female,38,Abuja,Platinum,Electronics,384.56,8,2025-06-03
+C0090,Courtney,Male,33,Port Harcourt,Silver,Electronics,419.91,26,2021-10-12
+C0091,Amy,Male,62,Port Harcourt,Silver,Electronics,76.24,19,2024-06-25
+C0092,Christopher,Female,35,Abuja,Platinum,Home,288.06,13,2022-07-22
+C0093,Theresa,Male,64,Port Harcourt,Platinum,Sports,425.51,12,2022-10-03
+C0094,William,Male,41,Ibadan,Gold,Fashion,147.16,5,2024-09-19
+C0095,Lawrence,Male,43,Port Harcourt,Gold,Electronics,95.55,6,2023-03-30
+C0096,Samantha,Male,42,Port Harcourt,Platinum,,223.4,26,2021-03-16
+C0097,Samuel,Male,62,Port Harcourt,Gold,,345.59,22,2022-02-24
+C0098,Joseph,Female,58,Lagos,Silver,Electronics,476.38,4,2020-09-28
+C0099,David,Male,46,Ibadan,Gold,Sports,301.16,19,2021-03-27
+C0100,Audrey,Female,32,Port Harcourt,Platinum,Sports,394.83,20,2022-01-17
+C0101,Mitchell,Female,62,Ibadan,Silver,Sports,353.52,1,2025-02-04
+C0102,Kenneth,Female,18,Ibadan,Silver,,242.18,20,2024-11-11
+C0103,Danny,Female,42,Ibadan,Silver,Fashion,406.61,17,2023-11-29
+C0104,Dennis,Male,24,Abuja,Gold,Home,277.11,12,2025-05-21
+C0105,Aaron,Male,26,Port Harcourt,Gold,,290.26,15,2023-06-03
+C0106,Elizabeth,Female,41,Lagos,Silver,Fashion,470.08,1,2024-07-22
+C0107,Ashley,Female,18,Lagos,Silver,Sports,297.54,26,2025-05-01
+C0108,David,Male,61,Lagos,Gold,Electronics,430.18,14,2025-06-26
+C0109,Jason,Female,25,Lagos,Gold,Sports,334.96,6,2023-11-19
+C0110,Margaret,Female,41,Port Harcourt,Silver,Fashion,195.55,5,2023-08-08
+C0111,Kenneth,Male,28,Lagos,Gold,,295.53,11,2021-11-11
+C0112,Michelle,Female,68,Ibadan,Gold,,297.61,4,2022-11-18
+C0113,Keith,Male,34,Abuja,Gold,Sports,212.0,13,2021-06-29
+C0114,Eric,Female,25,Enugu,Gold,Electronics,481.92,11,2022-07-02
+C0115,Dillon,Male,52,Lagos,Platinum,Fashion,,3,2023-05-26
+C0116,Stephanie,Male,52,Enugu,Platinum,Fashion,,1,2022-11-13
+C0117,Richard,Female,50,Enugu,Platinum,Fashion,57.34,6,2021-01-09
+C0118,Elizabeth,Male,22,Enugu,Silver,Home,450.65,18,2022-06-16
+C0119,Sandra,Male,59,Ibadan,Gold,Home,,24,2025-07-15
+C0120,Jenna,Female,56,Lagos,Platinum,Fashion,146.67,10,2023-05-25
+C0121,Christina,Male,58,Port Harcourt,Gold,Home,397.19,5,2021-07-18
+C0122,Andrew,Male,45,Ibadan,Platinum,Electronics,420.05,23,2024-12-24
+C0123,Eric,Female,24,Port Harcourt,Silver,Electronics,280.07,10,2021-09-25
+C0124,Kimberly,Female,26,Lagos,Silver,Sports,307.23,12,2022-10-18
+C0125,Courtney,Male,25,Ibadan,Platinum,Electronics,257.17,2,2020-07-31
+C0126,Victor,Male,29,Enugu,Silver,Electronics,169.24,13,2020-12-12
+C0127,Jeffrey,Female,51,Ibadan,Gold,Home,162.44,8,2023-10-27
+C0128,Lindsay,Female,50,Ibadan,Gold,,185.14,2,2021-12-05
+C0129,Megan,Male,65,Lagos,Silver,Fashion,306.08,20,2025-03-30
+C0130,Richard,Male,40,Enugu,Gold,Home,84.74,1,2021-01-12
+C0131,Charles,Male,41,Enugu,Platinum,Electronics,267.14,5,2023-10-04
+C0132,Steven,Male,54,Abuja,Platinum,Electronics,454.56,9,2021-10-09
+C0133,Rachel,Male,52,Abuja,Platinum,,418.78,17,2023-09-14
+C0134,Amy,Female,61,Port Harcourt,Gold,Fashion,339.01,9,2020-09-26
+C0135,Catherine,Male,57,Abuja,Platinum,,,11,2024-05-02
+C0136,Jessica,Male,39,Lagos,Silver,Fashion,221.7,15,2021-08-19
+C0137,Rebecca,Male,44,Ibadan,Platinum,Electronics,464.84,24,2020-08-22
+C0138,Deborah,Female,52,Enugu,Gold,Sports,445.91,6,2023-08-10
+C0139,Glen,Male,18,Ibadan,Gold,Fashion,468.61,23,2023-09-20
+C0140,Carol,Female,52,Lagos,Platinum,Home,396.68,3,2022-04-06
+C0141,Steven,Female,54,Ibadan,Silver,Electronics,432.27,17,2021-10-12
+C0142,Matthew,Male,64,Enugu,Silver,Electronics,335.25,5,2024-10-18
+C0143,Susan,Male,31,Abuja,Silver,Electronics,74.36,28,2022-01-26
+C0144,Anthony,Female,20,Port Harcourt,Gold,Electronics,193.69,12,2021-12-04
+C0145,Nicholas,Female,18,Enugu,Silver,Electronics,197.07,18,2020-10-30
+C0146,Austin,Female,22,Enugu,Gold,Home,118.94,14,2020-08-31
+C0147,David,Female,43,Enugu,Platinum,Home,498.82,21,2025-06-06
+C0148,Lisa,Female,31,Enugu,Platinum,Sports,388.78,24,2023-05-30
+C0149,Michael,Male,56,Lagos,Gold,,90.54,11,2021-05-21
+C0150,Ellen,Male,44,Enugu,Gold,Home,403.87,9,2024-03-24
+C0151,Zachary,Male,26,Ibadan,Platinum,Fashion,201.28,2,2025-06-13
+C0152,John,Male,32,Lagos,Platinum,Sports,385.39,12,2021-12-31
+C0153,Maureen,Female,32,Abuja,Gold,Fashion,168.15,3,2022-08-14
+C0154,Angela,Male,43,Ibadan,Platinum,Fashion,245.52,3,2021-05-17
+C0155,Amy,Male,59,Ibadan,Platinum,Sports,392.91,1,2022-11-17
+C0156,Jennifer,Male,30,Ibadan,Silver,,139.15,8,2024-03-25
+C0157,Joseph,Male,68,Ibadan,Silver,Electronics,307.1,22,2024-03-07
+C0158,Grant,Male,49,Lagos,Platinum,Electronics,498.69,28,2021-09-19
+C0159,Christine,Male,56,Abuja,Platinum,Sports,159.04,29,2025-03-16
+C0160,Kurt,Male,66,Abuja,Silver,Home,243.53,8,2020-08-21
+C0161,Alexandra,Male,69,Enugu,Platinum,Fashion,309.21,11,2021-03-06
+C0162,Angela,Male,49,Port Harcourt,Gold,Electronics,236.11,9,2021-10-06
+C0163,Laura,Female,21,Lagos,Platinum,Fashion,135.72,5,2023-07-03
+C0164,Nancy,Male,47,Abuja,Platinum,Electronics,344.93,14,2025-04-06
+C0165,Kiara,Male,54,Lagos,Gold,,126.16,28,2022-02-09
+C0166,Brian,Female,40,Lagos,Silver,Sports,419.71,3,2025-05-13
+C0167,Nicholas,Female,56,Enugu,Platinum,Home,330.43,21,2024-06-25
+C0168,Lisa,Male,62,Abuja,Silver,Electronics,465.9,5,2021-04-24
+C0169,Beth,Male,32,Port Harcourt,Silver,Fashion,358.41,5,2020-12-05
+C0170,Eric,Female,60,Port Harcourt,Platinum,Sports,377.82,19,2023-02-28
+C0171,Mary,Male,46,Port Harcourt,Platinum,,382.81,27,2020-09-19
+C0172,Lindsey,Female,53,Ibadan,Silver,Sports,329.45,14,2025-04-06
+C0173,Daniel,Female,30,Abuja,Platinum,Fashion,424.6,26,2021-01-31
+C0174,Theresa,Male,49,Ibadan,Platinum,Home,204.47,4,2023-05-19
+C0175,Shannon,Male,24,Ibadan,Silver,Sports,187.3,25,2024-01-02
+C0176,Joseph,Male,68,Ibadan,Silver,Home,199.34,13,2024-06-27
+C0177,Meghan,Female,39,Enugu,Gold,Home,145.34,10,2021-08-27
+C0178,Russell,Female,45,Enugu,Platinum,Fashion,387.66,25,2023-06-07
+C0179,Jenna,Female,19,Lagos,Gold,Electronics,330.37,18,2023-07-18
+C0180,Anna,Female,59,Lagos,Silver,Fashion,362.78,8,2025-05-02
+C0181,Robert,Female,62,Abuja,Platinum,Home,219.47,8,2025-07-14
+C0182,Thomas,Male,23,Abuja,Silver,Home,287.06,7,2023-10-28
+C0183,Patricia,Male,45,Enugu,Platinum,Fashion,77.05,8,2020-11-29
+C0184,Jessica,Male,45,Lagos,Platinum,Sports,363.44,14,2024-03-10
+C0185,Catherine,Female,61,Lagos,Gold,Electronics,259.23,19,2020-11-20
+C0186,Nicholas,Female,61,Ibadan,Silver,,79.97,29,2022-10-29
+C0187,Kristen,Male,37,Port Harcourt,Platinum,Home,348.34,6,2021-06-07
+C0188,Justin,Male,47,Port Harcourt,Gold,Electronics,212.1,1,2025-01-20
+C0189,Victoria,Male,28,Port Harcourt,Silver,Home,181.62,23,2023-09-05
+C0190,James,Male,45,Enugu,Gold,Fashion,223.94,15,2021-08-13
+C0191,Andrew,Female,42,Port Harcourt,Silver,Sports,278.84,1,2022-04-24
+C0192,John,Male,56,Port Harcourt,Platinum,Home,456.74,25,2021-06-19
+C0193,John,Female,50,Ibadan,Gold,Fashion,318.7,17,2020-12-28
+C0194,Jenny,Male,18,Abuja,Gold,,139.49,1,2021-10-12
+C0195,Marcus,Female,44,Enugu,Platinum,Sports,302.31,15,2023-02-22
+C0196,Ryan,Female,69,Lagos,Silver,Fashion,67.89,23,2020-11-01
+C0197,Kristina,Male,30,Ibadan,Platinum,,187.22,2,2023-02-11
+C0198,Jennifer,Male,58,Port Harcourt,Gold,Fashion,384.98,14,2021-11-23
+C0199,Brandon,Female,20,Lagos,Platinum,Electronics,,21,2022-04-12
+C0200,Mark,Male,56,Ibadan,Gold,Fashion,209.92,8,2023-04-25
+C0201,Susan,Male,23,Enugu,Platinum,Sports,498.2,8,2024-08-30
+C0202,Tiffany,Male,25,Port Harcourt,Silver,Electronics,174.15,19,2023-10-16
+C0203,Amber,Male,44,Enugu,Gold,Home,165.96,7,2024-10-06
+C0204,Joshua,Male,26,Ibadan,Gold,Electronics,499.98,19,2025-04-12
+C0205,Jacob,Male,54,Lagos,Silver,,474.86,6,2023-09-21
+C0206,Jonathan,Female,50,Abuja,Platinum,,151.51,6,2023-10-01
+C0207,Thomas,Female,68,Port Harcourt,Silver,Sports,226.78,3,2021-04-10
+C0208,Michael,Female,59,Enugu,Platinum,Electronics,378.45,7,2020-09-02
+C0209,Theresa,Male,61,Lagos,Silver,Home,355.1,19,2024-02-05
+C0210,Andrew,Female,41,Lagos,Silver,Sports,358.94,8,2021-11-26
+C0211,Jacob,Male,32,Abuja,Gold,,307.8,10,2023-01-28
+C0212,Daniel,Male,49,Ibadan,Gold,Sports,190.57,20,2022-06-29
+C0213,Cynthia,Female,49,Abuja,Platinum,Sports,252.13,15,2022-01-31
+C0214,Amber,Male,41,Abuja,Silver,Sports,343.61,15,2024-03-28
+C0215,Patricia,Female,58,Ibadan,Platinum,Fashion,357.82,29,2020-08-01
+C0216,Brooke,Female,69,Ibadan,Silver,Fashion,112.15,1,2022-06-22
+C0217,Ryan,Female,66,Ibadan,Silver,Sports,454.39,20,2021-03-19
+C0218,Tracey,Female,66,Lagos,Gold,Electronics,243.53,7,2025-06-15
+C0219,Pamela,Female,69,Lagos,Silver,Fashion,396.52,27,2025-07-17
+C0220,Tyler,Female,29,Port Harcourt,Gold,Sports,304.18,4,2022-03-06
+C0221,Catherine,Male,56,Port Harcourt,Gold,Sports,80.52,29,2022-09-19
+C0222,Amanda,Male,19,Abuja,Silver,,373.75,6,2024-01-11
+C0223,Nancy,Female,20,Abuja,Silver,Fashion,427.79,25,2021-01-20
+C0224,Tiffany,Male,66,Port Harcourt,Platinum,Fashion,63.27,1,2022-05-18
+C0225,Edward,Male,54,Enugu,Platinum,Electronics,487.8,29,2024-05-25
+C0226,Daniel,Male,66,Abuja,Platinum,Home,186.51,5,2022-03-21
+C0227,Crystal,Female,34,Enugu,Gold,Sports,419.76,27,2024-10-16
+C0228,Lisa,Male,66,Enugu,Gold,Home,382.25,23,2020-11-14
+C0229,Thomas,Male,19,Ibadan,Gold,Fashion,134.57,1,2022-10-18
+C0230,Ellen,Female,19,Lagos,Gold,,61.79,4,2022-07-25
+C0231,Amy,Male,45,Port Harcourt,Gold,Electronics,327.63,22,2023-06-13
+C0232,John,Male,40,Lagos,Gold,Home,325.56,2,2024-02-28
+C0233,Corey,Male,54,Port Harcourt,Silver,,153.91,10,2022-01-15
+C0234,Jesse,Male,49,Lagos,Platinum,Home,,5,2022-09-27
+C0235,Erika,Male,50,Port Harcourt,Platinum,Fashion,400.92,27,2022-11-12
+C0236,Michael,Male,18,Lagos,Platinum,Electronics,430.76,10,2020-09-11
+C0237,Mark,Male,36,Ibadan,Silver,Fashion,342.31,1,2023-04-12
+C0238,Karla,Female,19,Enugu,Platinum,Electronics,224.36,22,2023-02-27
+C0239,Daniel,Male,61,Port Harcourt,Gold,Fashion,123.7,6,2024-04-10
+C0240,Ariana,Male,43,Enugu,Silver,Sports,233.87,13,2023-12-17
+C0241,Michele,Male,49,Port Harcourt,Silver,Fashion,466.45,15,2021-07-04
+C0242,Scott,Male,23,Port Harcourt,Platinum,Home,150.15,4,2022-07-26
+C0243,Karl,Female,49,Ibadan,Gold,Home,141.28,13,2024-05-05
+C0244,James,Female,21,Lagos,Platinum,Electronics,129.69,24,2022-12-14
+C0245,Anthony,Female,28,Port Harcourt,Silver,Home,247.68,20,2021-09-25
+C0246,Stephanie,Male,34,Lagos,Platinum,Fashion,359.54,24,2023-12-05
+C0247,Lucas,Female,55,Ibadan,Silver,Fashion,449.41,15,2025-07-12
+C0248,Barbara,Male,41,Abuja,Silver,Sports,399.3,29,2022-02-11
+C0249,Riley,Female,22,Enugu,Silver,Fashion,420.95,8,2021-05-12
+C0250,Stephanie,Female,69,Port Harcourt,Gold,Electronics,227.37,5,2024-01-28
+C0251,Jessica,Male,51,Ibadan,Gold,,307.37,29,2022-01-25
+C0252,Stephanie,Female,23,Lagos,Platinum,Electronics,338.63,15,2021-03-01
+C0253,Sharon,Female,39,Port Harcourt,Platinum,Electronics,67.33,4,2023-10-19
+C0254,Natalie,Female,28,Lagos,Platinum,Fashion,255.61,12,2022-03-24
+C0255,Steven,Male,65,Abuja,Gold,Home,445.0,13,2022-04-13
+C0256,Christine,Male,33,Port Harcourt,Platinum,Home,292.04,2,2023-06-01
+C0257,Cheryl,Female,50,Enugu,Gold,,67.66,27,2021-08-10
+C0258,Stephen,Male,26,Port Harcourt,Silver,Fashion,394.32,19,2021-07-11
+C0259,Megan,Male,23,Enugu,Silver,Home,135.43,19,2021-11-09
+C0260,Arthur,Male,33,Lagos,Gold,Home,447.98,4,2025-06-27
+C0261,Courtney,Female,46,Port Harcourt,Gold,Sports,178.66,4,2021-07-21
+C0262,Robin,Male,20,Ibadan,Silver,Home,182.49,26,2021-10-07
+C0263,Jennifer,Female,37,Ibadan,Gold,Fashion,360.48,11,2022-03-15
+C0264,Jennifer,Male,53,Abuja,Silver,Sports,258.61,27,2022-07-03
+C0265,Emily,Male,36,Ibadan,Platinum,Sports,90.7,5,2023-09-18
+C0266,Patricia,Female,43,Abuja,Silver,Fashion,130.9,20,2021-11-08
+C0267,Carrie,Female,20,Lagos,Silver,Home,452.45,11,2021-10-26
+C0268,Cory,Male,36,Enugu,Platinum,Fashion,226.88,10,2022-07-24
+C0269,Stephanie,Female,37,Lagos,Gold,Home,61.21,8,2024-02-23
+C0270,Evelyn,Female,49,Enugu,Platinum,Electronics,453.48,6,2025-06-01
+C0271,David,Male,24,Enugu,Silver,Sports,447.15,6,2021-07-06
+C0272,Benjamin,Female,69,Abuja,Silver,Electronics,195.83,8,2023-03-14
+C0273,Austin,Male,58,Ibadan,Silver,Home,370.16,23,2024-04-18
+C0274,Barbara,Male,50,Ibadan,Silver,Fashion,379.97,15,2025-01-05
+C0275,Elizabeth,Female,57,Abuja,Silver,Electronics,367.8,26,2022-09-12
+C0276,Jon,Male,56,Abuja,Platinum,Fashion,88.39,14,2025-03-18
+C0277,Joshua,Male,35,Lagos,Silver,Electronics,377.09,11,2024-06-05
+C0278,Daniel,Male,57,Abuja,Gold,Home,325.43,12,2021-05-12
+C0279,Jermaine,Female,18,Ibadan,Platinum,Electronics,297.66,26,2025-04-03
+C0280,Sarah,Female,28,Abuja,Platinum,Home,,13,2021-09-15
+C0281,Roger,Male,45,Abuja,Platinum,Home,200.84,8,2021-10-15
+C0282,James,Female,42,Enugu,Silver,Electronics,438.2,18,2025-07-05
+C0283,Nichole,Male,67,Abuja,Silver,Electronics,115.07,25,2022-09-21
+C0284,Megan,Female,40,Lagos,Platinum,Electronics,73.09,1,2020-12-14
+C0285,Kenneth,Female,48,Abuja,Silver,Sports,378.57,15,2023-05-20
+C0286,Sarah,Female,47,Port Harcourt,Gold,Sports,179.95,8,2021-04-04
+C0287,Joseph,Male,59,Port Harcourt,Gold,Sports,454.34,28,2023-10-29
+C0288,Nathan,Male,52,Enugu,Silver,Sports,51.59,11,2024-03-18
+C0289,Janice,Female,24,Enugu,Platinum,Sports,55.49,12,2025-05-30
+C0290,Amanda,Female,33,Port Harcourt,Silver,Fashion,274.39,12,2023-01-06
+C0291,Natalie,Male,43,Enugu,Silver,Electronics,323.59,4,2022-08-29
+C0292,Glenn,Male,65,Enugu,Silver,Electronics,147.59,16,2020-08-10
+C0293,Dustin,Female,69,Ibadan,Platinum,Home,254.18,4,2022-07-09
+C0294,Michelle,Male,66,Ibadan,Gold,Electronics,320.55,5,2021-06-13
+C0295,Jody,Female,19,Abuja,Silver,,,24,2025-05-30
+C0296,John,Male,18,Port Harcourt,Platinum,Sports,175.15,5,2022-04-03
+C0297,Daniel,Female,65,Lagos,Platinum,Electronics,419.05,8,2024-01-13
+C0298,Diana,Female,29,Port Harcourt,Gold,Electronics,133.18,10,2023-08-12
+C0299,Nicole,Male,22,Port Harcourt,Platinum,Sports,207.06,17,2021-02-20
+C0300,Stephen,Male,54,Ibadan,Platinum,Sports,64.59,28,2021-02-13
+C0301,Luis,Male,49,Ibadan,Platinum,Fashion,321.48,26,2021-02-01
+C0302,Patrick,Male,26,Enugu,Gold,Sports,89.47,9,2023-02-21
+C0303,Phillip,Male,58,Lagos,Silver,Electronics,497.18,22,2022-12-29
+C0304,Tara,Female,52,Ibadan,Gold,Fashion,177.97,19,2022-08-29
+C0305,Susan,Male,36,Enugu,Silver,Home,364.93,29,2022-07-19
+C0306,Sarah,Female,65,Lagos,Platinum,Home,302.98,14,2023-02-16
+C0307,Sharon,Male,33,Ibadan,Platinum,Electronics,387.2,8,2024-02-27
+C0308,Christopher,Male,20,Port Harcourt,Silver,Sports,66.13,9,2021-07-08
+C0309,Christina,Female,37,Port Harcourt,Gold,Home,195.27,22,2022-11-15
+C0310,Ronald,Female,41,Lagos,Gold,,419.12,11,2021-10-03
+C0311,Brandon,Male,50,Lagos,Gold,,429.49,23,2020-12-26
+C0312,David,Female,41,Ibadan,Silver,Sports,261.87,1,2023-01-07
+C0313,James,Male,69,Ibadan,Platinum,Electronics,436.73,14,2021-07-31
+C0314,Laura,Male,28,Lagos,Platinum,Home,236.19,5,2024-12-14
+C0315,Chelsea,Male,66,Lagos,Platinum,Sports,144.07,21,2023-01-05
+C0316,Brandon,Female,25,Enugu,Silver,Home,307.12,26,2020-12-08
+C0317,Mary,Female,53,Enugu,Platinum,Sports,288.03,14,2021-09-28
+C0318,Justin,Male,55,Enugu,Platinum,Home,375.83,4,2023-06-04
+C0319,Justin,Male,57,Port Harcourt,Gold,,404.68,22,2023-02-18
+C0320,Brandy,Male,37,Port Harcourt,Platinum,Fashion,242.17,23,2022-06-02
+C0321,Maria,Male,52,Enugu,Gold,Sports,166.85,25,2023-04-29
+C0322,David,Female,65,Enugu,Silver,Sports,330.46,1,2022-03-13
+C0323,Scott,Male,42,Lagos,Gold,,326.43,22,2025-05-31
+C0324,Jason,Male,52,Port Harcourt,Platinum,Home,378.13,23,2025-01-02
+C0325,Kathleen,Female,42,Enugu,Platinum,Home,413.59,19,2021-05-28
+C0326,Eileen,Female,46,Abuja,Gold,Fashion,154.72,8,2021-04-20
+C0327,Steven,Male,35,Ibadan,Platinum,Electronics,137.1,15,2023-11-12
+C0328,Briana,Female,63,Enugu,Gold,,259.2,21,2024-04-15
+C0329,Toni,Male,35,Port Harcourt,Platinum,Sports,381.86,15,2024-11-15
+C0330,Betty,Male,19,Enugu,Gold,Fashion,326.89,9,2024-05-20
+C0331,Natasha,Female,52,Abuja,Gold,Sports,70.47,21,2021-09-21
+C0332,David,Male,33,Lagos,Silver,Sports,412.72,9,2023-12-18
+C0333,Joshua,Female,58,Port Harcourt,Gold,Sports,338.28,10,2024-08-01
+C0334,Victoria,Male,53,Lagos,Gold,Fashion,164.49,20,2025-07-06
+C0335,Becky,Male,50,Ibadan,Silver,Electronics,185.13,25,2023-08-15
+C0336,Mario,Female,21,Lagos,Platinum,Electronics,395.16,21,2024-07-02
+C0337,Jessica,Female,50,Enugu,Gold,Fashion,199.98,26,2020-11-04
+C0338,Katrina,Female,31,Abuja,Silver,Sports,306.01,9,2025-04-02
+C0339,George,Male,38,Lagos,Silver,Fashion,424.42,3,2023-11-14
+C0340,Christopher,Male,65,Abuja,Gold,Fashion,425.22,20,2022-10-24
+C0341,Justin,Male,37,Port Harcourt,Platinum,Sports,265.6,25,2021-09-20
+C0342,Robert,Male,25,Port Harcourt,Silver,,66.0,26,2021-11-11
+C0343,Sierra,Female,24,Enugu,Gold,Fashion,119.92,11,2023-11-09
+C0344,Jimmy,Female,20,Enugu,Silver,Fashion,439.35,6,2023-10-15
+C0345,Roger,Female,34,Enugu,Platinum,Home,258.11,2,2025-05-18
+C0346,James,Male,50,Abuja,Gold,Electronics,467.51,7,2022-08-13
+C0347,Allen,Female,65,Ibadan,Gold,,284.48,18,2025-04-20
+C0348,Elizabeth,Female,29,Ibadan,Platinum,Home,355.19,27,2024-12-26
+C0349,Gary,Female,68,Ibadan,Platinum,Sports,58.42,2,2024-07-20
+C0350,James,Female,39,Port Harcourt,Silver,Electronics,199.27,27,2022-07-12
+C0351,Jack,Male,39,Port Harcourt,Gold,Sports,408.1,17,2023-07-01
+C0352,Tamara,Male,63,Ibadan,Silver,Fashion,117.19,11,2023-05-23
+C0353,Louis,Female,47,Enugu,Gold,Electronics,202.62,27,2022-03-28
+C0354,Erica,Male,55,Lagos,Silver,Electronics,290.42,12,2023-04-10
+C0355,Anthony,Female,55,Ibadan,Gold,Home,322.56,27,2025-07-24
+C0356,Martin,Male,62,Lagos,Platinum,Home,102.58,19,2023-03-28
+C0357,Eric,Male,68,Ibadan,Silver,Sports,188.73,22,2023-05-18
+C0358,John,Female,25,Lagos,Gold,Sports,369.43,24,2023-10-18
+C0359,Janet,Female,44,Enugu,Gold,,89.06,25,2020-08-27
+C0360,Patricia,Female,44,Port Harcourt,Silver,Fashion,217.21,7,2023-12-05
+C0361,Stephen,Female,51,Ibadan,Platinum,Sports,186.18,20,2022-02-19
+C0362,Ashley,Male,38,Ibadan,Platinum,,128.76,6,2021-05-14
+C0363,Nicholas,Female,47,Enugu,Silver,Home,66.83,21,2024-12-19
+C0364,Craig,Male,50,Abuja,Silver,Electronics,91.67,24,2022-09-11
+C0365,Christina,Female,45,Ibadan,Gold,Home,409.56,1,2022-07-25
+C0366,Brittany,Male,64,Lagos,Gold,Electronics,119.33,17,2021-10-30
+C0367,Joshua,Female,50,Enugu,Platinum,Home,267.56,29,2023-10-02
+C0368,Crystal,Male,22,Abuja,Platinum,Sports,189.66,11,2024-02-15
+C0369,Timothy,Male,65,Ibadan,Platinum,Electronics,396.27,22,2025-03-12
+C0370,Hayden,Female,36,Ibadan,Silver,Fashion,492.02,26,2025-01-24
+C0371,Scott,Female,21,Port Harcourt,Silver,Sports,496.72,28,2023-03-21
+C0372,Aaron,Male,52,Abuja,Silver,Home,66.45,18,2024-07-22
+C0373,Emily,Female,66,Enugu,Platinum,Sports,439.16,21,2021-12-09
+C0374,Maria,Female,34,Lagos,Platinum,Electronics,189.94,17,2022-07-26
+C0375,Leah,Male,61,Ibadan,Platinum,Fashion,,7,2023-06-26
+C0376,Ralph,Female,45,Enugu,Platinum,Sports,442.34,17,2024-02-10
+C0377,Gabriella,Female,47,Port Harcourt,Silver,Home,450.13,20,2023-06-06
+C0378,Raven,Female,46,Ibadan,Gold,Fashion,394.78,9,2021-07-22
+C0379,Dana,Female,63,Abuja,Silver,,60.12,17,2024-09-10
+C0380,Shannon,Female,23,Enugu,Gold,Sports,337.48,20,2025-03-11
+C0381,Daniel,Female,52,Lagos,Gold,Electronics,140.25,22,2023-05-08
+C0382,Benjamin,Male,58,Port Harcourt,Silver,Fashion,289.52,22,2025-03-26
+C0383,Juan,Male,54,Enugu,Silver,Fashion,352.01,28,2023-08-24
+C0384,Sharon,Female,41,Ibadan,Silver,,120.87,29,2024-10-18
+C0385,Andrew,Female,46,Lagos,Platinum,,481.23,8,2024-01-03
+C0386,Anthony,Male,66,Ibadan,Silver,Fashion,96.07,17,2024-11-11
+C0387,Aaron,Female,63,Ibadan,Platinum,Sports,297.21,7,2024-04-22
+C0388,Brandon,Female,48,Abuja,Gold,Electronics,474.48,1,2022-06-13
+C0389,Darryl,Male,52,Abuja,Silver,Fashion,308.34,13,2021-11-27
+C0390,Kelly,Female,50,Ibadan,Platinum,Sports,190.12,23,2021-06-11
+C0391,Dana,Female,69,Port Harcourt,Platinum,Sports,293.26,19,2024-11-24
+C0392,Edward,Male,38,Abuja,Platinum,Home,63.05,27,2024-11-14
+C0393,Michael,Female,49,Abuja,Silver,Home,72.71,24,2020-08-16
+C0394,Anthony,Female,40,Abuja,Gold,Electronics,88.75,19,2022-02-19
+C0395,Robert,Female,50,Abuja,Silver,Sports,367.1,29,2021-08-15
+C0396,Matthew,Female,20,Lagos,Platinum,,333.26,17,2024-09-02
+C0397,Daniel,Female,35,Ibadan,Gold,Fashion,250.63,13,2021-08-25
+C0398,Kevin,Male,42,Lagos,Gold,Fashion,199.55,29,2021-03-14
+C0399,Nicholas,Female,59,Enugu,Gold,Home,391.28,16,2022-10-22
+C0400,Lee,Male,48,Enugu,Gold,Electronics,85.35,8,2021-12-21
+C0401,Brooke,Male,20,Enugu,Platinum,Electronics,393.99,19,2025-07-20
+C0402,Morgan,Female,57,Lagos,Platinum,Fashion,91.81,18,2024-01-17
+C0403,Robert,Female,63,Ibadan,Gold,Electronics,364.37,1,2022-10-24
+C0404,Sophia,Male,41,Enugu,Gold,Home,189.68,14,2024-11-02
+C0405,Cynthia,Male,67,Abuja,Gold,Home,394.92,19,2025-02-01
+C0406,Jade,Female,49,Enugu,Gold,Sports,476.35,15,2025-01-14
+C0407,Cheryl,Male,64,Port Harcourt,Platinum,Sports,453.07,18,2021-06-18
+C0408,Alan,Male,39,Abuja,Gold,Sports,213.55,2,2023-12-24
+C0409,Dustin,Male,40,Abuja,Gold,Sports,462.77,22,2021-02-10
+C0410,Briana,Male,19,Abuja,Silver,Electronics,437.36,28,2022-10-10
+C0411,Melissa,Male,44,Enugu,Platinum,Home,269.38,17,2021-03-15
+C0412,Jodi,Male,59,Abuja,Gold,Home,100.8,18,2022-12-23
+C0413,Keith,Female,19,Port Harcourt,Gold,Electronics,430.59,6,2025-02-15
+C0414,James,Male,43,Lagos,Silver,Home,206.88,19,2024-10-07
+C0415,Michael,Female,34,Port Harcourt,Gold,Home,278.58,4,2025-05-18
+C0416,Nathan,Female,57,Ibadan,Gold,Home,371.42,1,2022-12-31
+C0417,Gregory,Male,50,Abuja,Gold,Home,300.27,8,2020-11-04
+C0418,Julie,Female,26,Port Harcourt,Silver,Fashion,185.95,29,2024-08-10
+C0419,Joshua,Female,60,Enugu,Platinum,Sports,315.74,23,2024-06-09
+C0420,Joseph,Female,65,Ibadan,Silver,Fashion,159.66,7,2022-06-21
+C0421,Tara,Male,56,Port Harcourt,Platinum,Sports,267.07,3,2022-12-17
+C0422,Russell,Male,46,Abuja,Silver,Home,143.71,10,2020-11-20
+C0423,Sarah,Male,59,Enugu,Silver,Sports,244.02,10,2021-01-08
+C0424,Megan,Male,43,Abuja,Gold,Electronics,305.25,19,2021-02-18
+C0425,Tina,Female,52,Ibadan,Platinum,Fashion,362.36,14,2021-04-01
+C0426,Sarah,Male,67,Port Harcourt,Platinum,Fashion,351.32,2,2024-03-05
+C0427,Brian,Male,42,Abuja,Platinum,Sports,370.36,28,2025-04-20
+C0428,Carla,Female,41,Ibadan,Platinum,Home,101.45,1,2021-12-24
+C0429,Andrea,Male,30,Enugu,Gold,Fashion,196.42,23,2023-11-17
+C0430,Ashley,Male,24,Port Harcourt,Gold,Fashion,250.35,23,2024-08-26
+C0431,Elizabeth,Male,53,Port Harcourt,Silver,Sports,232.61,28,2025-02-12
+C0432,William,Female,62,Ibadan,Silver,Home,358.48,18,2024-07-22
+C0433,Nicole,Male,37,Port Harcourt,Gold,Fashion,418.94,7,2021-09-21
+C0434,Timothy,Female,18,Enugu,Silver,Home,340.25,29,2022-04-19
+C0435,Dale,Female,25,Enugu,Gold,Fashion,147.93,8,2023-09-15
+C0436,Garrett,Female,63,Port Harcourt,Platinum,Home,311.35,1,2023-11-13
+C0437,Emily,Female,33,Abuja,Silver,Home,414.43,25,2023-12-10
+C0438,Larry,Female,31,Abuja,Gold,Home,347.4,23,2020-11-26
+C0439,Mary,Male,29,Enugu,Platinum,Electronics,181.18,3,2024-08-13
+C0440,Troy,Female,68,Abuja,Platinum,Electronics,251.22,24,2021-09-19
+C0441,John,Female,40,Ibadan,Platinum,Fashion,444.84,23,2021-04-01
+C0442,Nathan,Female,32,Lagos,Gold,Sports,407.46,27,2022-05-22
+C0443,Wendy,Male,45,Port Harcourt,Gold,Sports,463.33,29,2024-07-07
+C0444,John,Female,51,Ibadan,Gold,,373.01,8,2024-06-17
+C0445,Timothy,Female,19,Enugu,Platinum,Fashion,495.63,22,2025-06-29
+C0446,Teresa,Male,49,Lagos,Platinum,Home,325.17,25,2023-06-06
+C0447,John,Female,40,Enugu,Platinum,Sports,431.44,15,2022-02-06
+C0448,Bradley,Female,39,Lagos,Gold,Fashion,78.08,5,2025-03-28
+C0449,Sara,Male,68,Ibadan,Gold,Sports,485.55,3,2024-04-22
+C0450,Anna,Female,42,Lagos,Silver,Fashion,,19,2021-08-23
+C0451,Mandy,Male,39,Abuja,Platinum,Electronics,490.41,1,2025-04-16
+C0452,David,Female,39,Ibadan,Gold,,176.99,28,2024-05-19
+C0453,Michael,Female,66,Port Harcourt,Silver,Fashion,,15,2021-05-03
+C0454,Aaron,Female,69,Enugu,Silver,Fashion,315.57,8,2021-07-09
+C0455,Jason,Male,59,Abuja,Platinum,Electronics,370.3,2,2023-02-25
+C0456,Daniel,Male,23,Port Harcourt,Platinum,Sports,245.84,3,2023-01-06
+C0457,Kristen,Male,32,Lagos,Gold,Sports,128.03,24,2023-04-22
+C0458,Joseph,Male,60,Abuja,Silver,Sports,299.94,14,2023-11-30
+C0459,Scott,Female,54,Port Harcourt,Platinum,Electronics,212.13,24,2024-03-11
+C0460,Daniel,Male,50,Ibadan,Platinum,Home,179.81,14,2023-07-24
+C0461,Joshua,Male,25,Lagos,Silver,Home,106.5,11,2024-02-18
+C0462,Eric,Male,61,Port Harcourt,Platinum,Fashion,,16,2023-11-18
+C0463,Oscar,Female,61,Lagos,Silver,,114.8,4,2022-10-15
+C0464,Ryan,Female,22,Port Harcourt,Silver,,346.07,20,2023-09-09
+C0465,Timothy,Female,56,Enugu,Platinum,Fashion,111.1,5,2022-09-05
+C0466,Anthony,Female,21,Ibadan,Silver,Home,412.67,22,2025-04-25
+C0467,Kristin,Female,23,Abuja,Silver,Electronics,452.11,21,2024-09-11
+C0468,Kenneth,Male,62,Port Harcourt,Gold,Home,468.64,14,2023-06-20
+C0469,Julia,Male,49,Lagos,Silver,Electronics,254.48,23,2021-11-03
+C0470,Nicole,Female,69,Ibadan,Platinum,Home,419.03,16,2021-06-17
+C0471,Lauren,Female,47,Abuja,Silver,Home,151.58,18,2023-05-27
+C0472,Jamie,Male,64,Lagos,Silver,Fashion,53.34,7,2020-10-20
+C0473,Brenda,Female,52,Ibadan,Platinum,Sports,378.91,10,2025-01-28
+C0474,Lisa,Female,57,Lagos,Silver,Fashion,171.16,7,2023-09-19
+C0475,Jimmy,Male,69,Ibadan,Silver,Sports,309.36,1,2024-03-31
+C0476,Lucas,Female,33,Abuja,Silver,,,23,2022-07-20
+C0477,Christopher,Female,30,Abuja,Platinum,Fashion,,21,2025-02-16
+C0478,William,Female,67,Lagos,Gold,Electronics,215.86,19,2023-11-20
+C0479,Joseph,Female,59,Ibadan,Gold,Fashion,482.78,16,2021-04-17
+C0480,Taylor,Male,47,Port Harcourt,Silver,Electronics,378.58,29,2024-03-05
+C0481,Lisa,Female,36,Abuja,Platinum,Home,436.71,19,2025-01-21
+C0482,Jeffrey,Male,34,Port Harcourt,Platinum,Electronics,175.74,4,2022-03-02
+C0483,Brandy,Female,36,Port Harcourt,Platinum,Electronics,285.51,29,2023-04-27
+C0484,Jerome,Female,45,Enugu,Platinum,Electronics,160.35,28,2020-08-15
+C0485,William,Female,43,Lagos,Gold,,348.68,18,2025-04-18
+C0486,Debra,Male,54,Lagos,Platinum,Sports,357.83,2,2023-10-09
+C0487,Michael,Female,43,Lagos,Gold,Home,310.83,1,2021-11-27
+C0488,Diana,Female,40,Ibadan,Silver,Fashion,456.61,15,2023-09-04
+C0489,Scott,Female,26,Abuja,Silver,Electronics,54.85,5,2024-10-11
+C0490,Caroline,Male,29,Abuja,Platinum,Electronics,457.72,20,2022-02-08
+C0491,Christine,Female,18,Enugu,Platinum,Home,199.18,11,2024-07-10
+C0492,John,Male,18,Enugu,Gold,Fashion,489.99,10,2021-10-10
+C0493,Barry,Male,64,Enugu,Silver,Electronics,125.38,2,2022-02-05
+C0494,Joseph,Female,51,Port Harcourt,Silver,Electronics,318.94,3,2024-06-18
+C0495,Hannah,Male,49,Lagos,Platinum,Electronics,403.26,23,2021-01-16
+C0496,Craig,Male,65,Ibadan,Platinum,Fashion,333.19,23,2025-01-03
+C0497,Christopher,Female,42,Abuja,Gold,Fashion,307.79,12,2022-10-21
+C0498,Kristy,Male,57,Ibadan,Platinum,Sports,181.29,20,2023-06-18
+C0499,Tara,Female,62,Lagos,Gold,Electronics,62.28,5,2021-04-22
+C0500,Sally,Male,18,Lagos,Silver,Fashion,107.07,5,2023-06-02
+C0501,William,Male,33,Abuja,Platinum,Sports,402.69,6,2024-10-22
+C0502,Heather,Female,56,Port Harcourt,Platinum,Electronics,327.11,9,2022-10-07
+C0503,Elizabeth,Female,22,Enugu,Platinum,,165.63,2,2024-05-26
+C0504,Matthew,Female,39,Port Harcourt,Gold,,321.72,21,2021-08-02
+C0505,Eric,Male,46,Lagos,Silver,Sports,382.54,12,2025-01-10
+C0506,Dean,Female,20,Lagos,Silver,Electronics,216.4,3,2023-09-07
+C0507,Miranda,Female,29,Port Harcourt,Silver,Electronics,402.14,20,2024-07-19
+C0508,Carrie,Female,43,Enugu,Platinum,Electronics,131.36,26,2022-12-13
+C0509,Kelly,Female,33,Enugu,Silver,Fashion,64.89,22,2025-05-27
+C0510,Robert,Female,68,Lagos,Silver,Home,485.31,12,2024-01-09
+C0511,Nicholas,Female,54,Enugu,Silver,Electronics,419.78,24,2021-04-25
+C0512,Selena,Female,39,Enugu,Platinum,,388.74,17,2022-02-14
+C0513,Howard,Male,46,Abuja,Platinum,Electronics,222.43,10,2024-12-20
+C0514,Michael,Female,31,Abuja,Gold,Home,376.7,24,2021-08-08
+C0515,Carl,Male,45,Ibadan,Gold,Home,309.99,27,2020-11-17
+C0516,Anthony,Male,22,Port Harcourt,Gold,Electronics,74.45,14,2024-09-16
+C0517,Ricardo,Female,64,Lagos,Gold,,418.79,23,2021-12-22
+C0518,Nathaniel,Male,66,Enugu,Silver,Electronics,258.81,17,2023-04-16
+C0519,Lisa,Male,47,Ibadan,Gold,,264.32,18,2023-12-24
+C0520,Amy,Male,63,Abuja,Gold,Fashion,465.11,19,2025-06-16
+C0521,Rachel,Male,69,Enugu,Gold,Sports,357.58,17,2020-07-31
+C0522,Kiara,Male,22,Port Harcourt,Platinum,Home,168.18,14,2021-08-03
+C0523,Jason,Male,29,Abuja,Silver,Electronics,245.63,9,2022-09-30
+C0524,Malik,Male,33,Lagos,Platinum,Home,408.79,8,2021-04-01
+C0525,Elizabeth,Male,43,Enugu,Silver,Sports,192.06,2,2021-04-25
+C0526,Valerie,Male,43,Ibadan,Gold,Sports,480.14,13,2021-12-19
+C0527,Jessica,Male,65,Lagos,Platinum,Sports,289.08,25,2022-07-09
+C0528,Kimberly,Female,38,Enugu,Silver,Sports,429.91,7,2021-05-13
+C0529,Jacob,Male,56,Enugu,Platinum,Fashion,343.43,9,2022-10-09
+C0530,Anita,Male,53,Enugu,Platinum,Electronics,171.65,22,2020-10-26
+C0531,Yolanda,Female,50,Enugu,Silver,Fashion,164.9,22,2025-02-02
+C0532,Nicholas,Female,47,Enugu,Silver,Sports,257.5,11,2024-10-20
+C0533,Dakota,Female,54,Lagos,Gold,Sports,158.81,14,2024-11-21
+C0534,Adam,Male,40,Port Harcourt,Gold,Sports,396.72,4,2024-01-29
+C0535,Mitchell,Male,27,Port Harcourt,Gold,Electronics,354.97,26,2021-08-10
+C0536,Adam,Male,22,Lagos,Platinum,Fashion,190.97,26,2020-12-15
+C0537,Jonathan,Female,53,Port Harcourt,Gold,Sports,,29,2022-04-09
+C0538,Karen,Male,51,Ibadan,Silver,Sports,,13,2021-06-14
+C0539,Christy,Male,69,Ibadan,Platinum,Electronics,235.06,2,2020-10-12
+C0540,John,Female,48,Lagos,Silver,Home,358.47,23,2022-04-01
+C0541,Mary,Female,27,Ibadan,Platinum,,376.36,5,2024-09-08
+C0542,Randy,Female,36,Lagos,Silver,Fashion,65.32,11,2024-03-24
+C0543,Pamela,Male,49,Ibadan,Silver,Home,75.6,6,2023-04-05
+C0544,Melissa,Male,18,Abuja,Gold,Electronics,452.29,18,2021-01-31
+C0545,Jack,Male,22,Lagos,Gold,Fashion,319.72,21,2024-07-20
+C0546,Kimberly,Male,62,Enugu,Platinum,Sports,481.01,10,2022-12-11
+C0547,Charles,Female,21,Ibadan,Gold,Electronics,322.11,4,2021-01-01
+C0548,Lisa,Male,33,Abuja,Platinum,,393.74,9,2022-08-18
+C0549,Michele,Male,41,Lagos,Silver,Sports,411.44,6,2023-01-04
+C0550,Laura,Female,33,Ibadan,Platinum,Fashion,99.88,2,2023-10-17
+C0551,Ashley,Female,19,Enugu,Silver,,182.56,17,2022-11-24
+C0552,Kimberly,Female,66,Ibadan,Silver,Fashion,84.07,5,2023-03-03
+C0553,Jo,Male,45,Abuja,Silver,Home,497.86,25,2023-06-29
+C0554,Emily,Female,49,Port Harcourt,Platinum,,361.5,6,2024-01-18
+C0555,Jill,Male,44,Port Harcourt,Platinum,Sports,396.55,26,2025-02-13
+C0556,Suzanne,Female,37,Abuja,Gold,Fashion,401.33,12,2020-09-26
+C0557,Robert,Female,41,Abuja,Gold,,78.07,23,2021-11-24
+C0558,Kevin,Male,29,Lagos,Silver,Sports,498.18,21,2023-10-21
+C0559,Jorge,Female,67,Port Harcourt,Silver,,415.76,10,2021-02-07
+C0560,Cassandra,Female,52,Lagos,Platinum,Home,81.23,22,2024-09-12
+C0561,Jasmine,Female,50,Ibadan,Gold,Sports,140.3,21,2025-04-10
+C0562,Jacqueline,Male,50,Abuja,Platinum,Electronics,340.47,27,2022-04-09
+C0563,Jennifer,Female,68,Lagos,Platinum,Sports,293.28,25,2020-10-10
+C0564,Regina,Male,60,Abuja,Platinum,,326.28,6,2023-09-04
+C0565,Victor,Female,54,Lagos,Silver,Electronics,248.71,27,2024-02-14
+C0566,Lauren,Female,29,Ibadan,Silver,Home,65.69,8,2022-11-12
+C0567,Catherine,Female,20,Ibadan,Gold,Fashion,377.4,2,2022-09-01
+C0568,Brittany,Female,18,Enugu,Silver,Sports,58.44,12,2022-04-24
+C0569,Eric,Female,50,Port Harcourt,Silver,Home,343.79,13,2023-09-18
+C0570,Kyle,Female,57,Enugu,Platinum,Fashion,,25,2023-10-14
+C0571,Samuel,Male,27,Port Harcourt,Silver,Home,,21,2021-03-28
+C0572,Grace,Male,60,Ibadan,Platinum,Sports,118.22,7,2021-05-19
+C0573,Rachel,Female,61,Lagos,Gold,Home,226.1,10,2024-09-08
+C0574,Chris,Female,46,Abuja,Silver,Electronics,,13,2021-03-12
+C0575,Reginald,Male,30,Ibadan,Gold,,396.95,17,2025-01-18
+C0576,Lori,Female,29,Ibadan,Silver,Electronics,231.76,26,2024-03-04
+C0577,Jeffery,Female,48,Lagos,Platinum,Home,415.52,21,2021-11-18
+C0578,Deborah,Female,63,Ibadan,Silver,Home,151.63,28,2023-10-17
+C0579,Brandon,Male,19,Ibadan,Platinum,Electronics,360.17,26,2022-12-02
+C0580,Amber,Female,68,Lagos,Gold,Sports,104.54,14,2024-07-03
+C0581,Tiffany,Female,67,Ibadan,Platinum,Sports,496.22,2,2024-06-18
+C0582,Michael,Male,52,Port Harcourt,Platinum,Fashion,186.27,28,2021-02-28
+C0583,Susan,Female,40,Port Harcourt,Gold,Sports,498.66,22,2021-04-27
+C0584,Samantha,Male,34,Port Harcourt,Gold,Fashion,214.41,11,2022-04-17
+C0585,Eric,Female,43,Port Harcourt,Platinum,Electronics,203.03,1,2023-01-23
+C0586,Leslie,Female,25,Ibadan,Silver,Electronics,392.2,19,2021-12-13
+C0587,Jennifer,Female,46,Abuja,Platinum,Electronics,141.4,21,2023-10-03
+C0588,Lee,Female,43,Port Harcourt,Platinum,Sports,485.38,4,2022-08-09
+C0589,Heather,Female,27,Port Harcourt,Silver,Fashion,184.49,19,2023-03-25
+C0590,Brian,Male,43,Ibadan,Platinum,Electronics,98.05,26,2020-10-09
+C0591,Melissa,Male,51,Enugu,Platinum,Electronics,268.93,29,2022-02-02
+C0592,Kelly,Male,68,Ibadan,Gold,Sports,247.09,21,2024-01-30
+C0593,Jessica,Male,58,Lagos,Silver,Sports,66.06,11,2025-05-17
+C0594,Kenneth,Female,24,Port Harcourt,Silver,Fashion,,8,2024-08-07
+C0595,Joseph,Female,21,Lagos,Gold,Fashion,157.32,11,2024-03-23
+C0596,Tommy,Male,67,Port Harcourt,Silver,Fashion,406.73,4,2021-06-05
+C0597,Manuel,Female,62,Enugu,Silver,Home,274.86,17,2024-07-31
+C0598,Courtney,Female,28,Abuja,Gold,Sports,415.3,27,2024-03-03
+C0599,Franklin,Female,46,Enugu,Platinum,Fashion,57.39,7,2025-01-17
+C0600,William,Male,53,Ibadan,Platinum,Home,201.97,8,2024-03-29
+C0601,Natasha,Male,42,Ibadan,Platinum,Sports,232.48,3,2024-06-29
+C0602,Joshua,Female,38,Lagos,Gold,Fashion,344.23,22,2024-05-14
+C0603,Cole,Male,53,Lagos,Gold,Home,473.04,2,2022-04-24
+C0604,Felicia,Female,27,Ibadan,Silver,Home,291.45,23,2022-11-09
+C0605,Heather,Male,54,Ibadan,Platinum,Fashion,154.84,15,2024-03-04
+C0606,Heather,Female,26,Ibadan,Gold,Home,380.96,24,2021-04-22
+C0607,Mark,Female,41,Port Harcourt,Gold,Fashion,58.58,22,2021-05-23
+C0608,Makayla,Female,52,Enugu,Gold,Fashion,328.27,22,2022-01-02
+C0609,Daniel,Female,66,Port Harcourt,Silver,Home,341.95,5,2022-08-15
+C0610,Carolyn,Female,52,Abuja,Gold,Home,,24,2021-07-04
+C0611,Albert,Female,65,Port Harcourt,Platinum,Sports,457.1,1,2025-03-09
+C0612,Frank,Female,53,Ibadan,Gold,Home,93.78,26,2024-05-22
+C0613,Brittany,Female,35,Port Harcourt,Gold,Sports,425.91,4,2021-11-16
+C0614,Erin,Female,66,Lagos,Silver,Electronics,417.86,15,2020-11-08
+C0615,Paige,Female,56,Ibadan,Platinum,,317.74,20,2021-06-05
+C0616,Lisa,Female,49,Enugu,Platinum,Electronics,78.4,19,2023-07-15
+C0617,Gary,Male,41,Port Harcourt,Platinum,Fashion,201.8,3,2022-11-28
+C0618,Steve,Male,40,Ibadan,Gold,Home,382.07,20,2021-05-27
+C0619,Russell,Male,49,Lagos,Silver,Electronics,104.36,11,2025-01-22
+C0620,Jason,Female,54,Lagos,Platinum,Home,295.65,17,2022-07-24
+C0621,Lucas,Male,29,Port Harcourt,Gold,Electronics,484.11,27,2023-05-11
+C0622,Michael,Male,66,Ibadan,Silver,Sports,70.51,13,2024-08-28
+C0623,Lisa,Male,30,Enugu,Platinum,Fashion,78.45,11,2022-03-16
+C0624,Kristina,Male,40,Abuja,Silver,Sports,390.9,2,2024-07-25
+C0625,Walter,Female,42,Lagos,Silver,Home,216.47,9,2024-11-07
+C0626,Sherry,Female,52,Abuja,Gold,Electronics,159.64,26,2023-07-22
+C0627,Sharon,Female,58,Enugu,Silver,Sports,110.02,2,2025-06-09
+C0628,Sheila,Male,47,Port Harcourt,Gold,Home,334.49,21,2024-10-20
+C0629,John,Male,34,Lagos,Platinum,Electronics,120.99,9,2024-07-06
+C0630,Dominic,Female,66,Abuja,Platinum,,86.33,9,2024-09-24
+C0631,Maria,Male,37,Lagos,Silver,Sports,,8,2022-09-15
+C0632,Jacob,Female,65,Abuja,Platinum,Home,368.03,17,2021-07-10
+C0633,Samantha,Male,42,Ibadan,Gold,Fashion,177.68,1,2023-01-31
+C0634,Anthony,Female,39,Ibadan,Gold,Fashion,406.51,25,2025-03-14
+C0635,Peter,Male,30,Port Harcourt,Gold,Fashion,107.1,29,2022-03-19
+C0636,Adrian,Male,36,Enugu,Silver,Electronics,171.93,11,2022-07-29
+C0637,Andrea,Female,66,Lagos,Silver,Fashion,157.66,8,2023-05-06
+C0638,Sharon,Male,53,Enugu,Silver,Electronics,361.25,10,2024-02-02
+C0639,Tyler,Male,29,Abuja,Gold,Sports,372.74,25,2023-04-02
+C0640,Shannon,Female,58,Port Harcourt,Gold,Home,89.61,7,2020-08-02
+C0641,Kimberly,Male,36,Ibadan,Gold,Home,185.54,3,2024-03-05
+C0642,Brent,Female,29,Ibadan,Gold,,300.97,3,2025-05-05
+C0643,William,Male,26,Port Harcourt,Silver,Fashion,493.97,18,2023-05-12
+C0644,Patrick,Male,24,Lagos,Silver,,328.51,5,2024-08-28
+C0645,Travis,Female,45,Enugu,Silver,Electronics,494.05,12,2024-06-07
+C0646,Rebecca,Female,31,Abuja,Silver,Home,258.9,12,2023-06-24
+C0647,David,Female,48,Enugu,Gold,Home,143.65,19,2025-06-01
+C0648,Andrea,Female,69,Ibadan,Gold,,100.71,6,2022-10-20
+C0649,Nancy,Female,36,Port Harcourt,Platinum,Fashion,429.7,2,2023-08-09
+C0650,Donna,Male,64,Ibadan,Platinum,Electronics,273.88,12,2023-02-22
+C0651,Derek,Male,33,Ibadan,Platinum,Fashion,465.2,19,2024-01-04
+C0652,Melissa,Female,22,Abuja,Gold,Sports,213.89,5,2022-05-20
+C0653,Jimmy,Female,52,Lagos,Silver,,163.12,12,2021-06-03
+C0654,Carolyn,Male,29,Lagos,Silver,Fashion,450.54,27,2022-11-03
+C0655,Michael,Male,42,Abuja,Silver,Home,96.99,27,2022-05-07
+C0656,Justin,Female,69,Port Harcourt,Gold,Fashion,291.81,17,2024-04-16
+C0657,Gregory,Female,38,Enugu,Platinum,Sports,63.08,29,2024-10-16
+C0658,Kimberly,Male,53,Port Harcourt,Silver,Electronics,81.89,17,2020-12-01
+C0659,Jonathan,Male,40,Enugu,Platinum,Home,250.17,10,2024-04-24
+C0660,Tiffany,Male,33,Lagos,Platinum,Fashion,238.58,25,2024-03-04
+C0661,Brian,Male,56,Ibadan,Gold,Home,454.27,23,2020-12-05
+C0662,Isaiah,Female,62,Ibadan,Gold,Electronics,99.56,17,2023-03-30
+C0663,Amy,Male,59,Port Harcourt,Silver,Home,156.7,15,2023-04-11
+C0664,Lauren,Male,56,Abuja,Gold,,139.98,12,2022-05-26
+C0665,Evan,Male,31,Enugu,Gold,Home,83.09,16,2023-02-26
+C0666,Anthony,Female,48,Ibadan,Gold,Sports,74.45,24,2024-11-22
+C0667,Lori,Male,22,Port Harcourt,Silver,Home,147.27,19,2020-12-04
+C0668,Robert,Female,52,Abuja,Platinum,Fashion,130.13,8,2021-05-17
+C0669,Julie,Female,40,Lagos,Platinum,Electronics,255.98,21,2023-10-04
+C0670,Kimberly,Female,46,Abuja,Silver,Fashion,211.37,17,2020-10-16
+C0671,Karen,Female,60,Lagos,Platinum,Electronics,201.15,23,2021-10-25
+C0672,William,Female,28,Port Harcourt,Platinum,Fashion,,5,2022-07-15
+C0673,Steven,Female,35,Abuja,Silver,Fashion,176.27,22,2025-05-19
+C0674,Andrea,Male,64,Port Harcourt,Platinum,Sports,259.49,16,2024-08-21
+C0675,John,Male,29,Lagos,Gold,Fashion,392.15,6,2024-01-01
+C0676,Lisa,Male,26,Ibadan,Silver,Sports,182.82,8,2024-09-01
+C0677,Crystal,Male,27,Ibadan,Silver,Electronics,407.55,25,2025-05-12
+C0678,Laura,Female,61,Lagos,Gold,Fashion,457.51,18,2021-01-02
+C0679,Miranda,Male,34,Enugu,Gold,,298.74,25,2022-04-16
+C0680,Nathan,Male,55,Enugu,Gold,Electronics,235.26,12,2021-11-21
+C0681,Aaron,Male,24,Ibadan,Gold,,437.99,15,2023-01-11
+C0682,Angela,Male,63,Ibadan,Silver,,263.07,27,2024-11-09
+C0683,Julie,Male,30,Abuja,Silver,Electronics,56.53,26,2021-02-11
+C0684,Gregory,Male,57,Abuja,Silver,Fashion,442.67,9,2023-05-19
+C0685,Rose,Male,59,Ibadan,Gold,Sports,245.41,13,2025-07-27
+C0686,Philip,Female,26,Enugu,Gold,Sports,467.37,26,2023-04-17
+C0687,James,Female,67,Abuja,Gold,Electronics,461.19,15,2021-07-01
+C0688,Linda,Female,44,Lagos,Gold,Electronics,238.0,10,2024-05-06
+C0689,Chad,Female,19,Abuja,Gold,Electronics,,16,2021-08-11
+C0690,Alexandra,Male,22,Abuja,Silver,Electronics,380.06,7,2022-02-17
+C0691,Kelly,Male,46,Abuja,Gold,Electronics,241.56,17,2022-08-21
+C0692,Brittany,Female,54,Port Harcourt,Gold,Electronics,414.37,23,2021-08-09
+C0693,William,Female,55,Lagos,Silver,Home,94.1,26,2023-05-04
+C0694,Marc,Female,36,Ibadan,Platinum,Home,87.39,21,2023-03-11
+C0695,Jamie,Male,25,Enugu,Platinum,Sports,361.92,22,2021-06-13
+C0696,Adrienne,Male,65,Enugu,Gold,Electronics,148.1,26,2025-02-04
+C0697,Robin,Female,62,Ibadan,Platinum,Fashion,157.58,7,2022-12-17
+C0698,Calvin,Male,18,Port Harcourt,Platinum,Sports,57.17,14,2024-05-31
+C0699,Christopher,Female,39,Enugu,Silver,Home,122.81,15,2025-02-12
+C0700,Maria,Male,69,Abuja,Gold,Fashion,306.67,21,2023-05-17
+C0701,Donna,Male,34,Enugu,Silver,Home,489.39,7,2025-04-16
+C0702,Nicholas,Male,24,Lagos,Silver,Electronics,112.38,9,2024-07-08
+C0703,Edwin,Female,42,Lagos,Gold,Fashion,133.23,19,2020-12-16
+C0704,Chad,Male,62,Ibadan,Silver,Electronics,332.06,16,2024-03-31
+C0705,Karen,Male,21,Port Harcourt,Gold,Sports,50.61,8,2023-08-05
+C0706,Randall,Male,53,Port Harcourt,Gold,Electronics,223.2,18,2023-02-24
+C0707,Jessica,Male,23,Enugu,Platinum,Home,288.91,27,2023-10-25
+C0708,Michael,Female,48,Port Harcourt,Gold,Fashion,388.8,23,2022-09-29
+C0709,Melinda,Female,36,Port Harcourt,Gold,Fashion,325.63,29,2021-07-23
+C0710,Erin,Female,61,Enugu,Gold,Home,143.22,18,2020-10-17
+C0711,Michael,Male,56,Lagos,Gold,Fashion,329.2,20,2023-08-13
+C0712,Scott,Female,44,Abuja,Gold,Electronics,469.51,7,2023-06-22
+C0713,Cassandra,Female,27,Ibadan,Platinum,Sports,459.5,3,2020-09-05
+C0714,Evelyn,Female,43,Lagos,Platinum,Electronics,73.2,18,2023-03-24
+C0715,Becky,Female,36,Port Harcourt,Silver,Electronics,259.41,27,2021-06-07
+C0716,Louis,Female,56,Port Harcourt,Gold,Fashion,,10,2021-10-03
+C0717,Don,Female,20,Enugu,Gold,Sports,341.68,7,2025-02-22
+C0718,Eric,Male,62,Ibadan,Platinum,Home,302.34,17,2020-10-21
+C0719,Bridget,Male,30,Abuja,Platinum,Fashion,112.28,14,2021-11-06
+C0720,Lauren,Female,67,Enugu,Silver,Electronics,292.84,24,2021-05-29
+C0721,Eric,Female,45,Enugu,Gold,Home,381.82,3,2024-05-11
+C0722,Chad,Female,37,Abuja,Gold,Home,442.01,12,2021-03-27
+C0723,Monique,Male,45,Abuja,Silver,Home,388.93,28,2023-10-14
+C0724,Nichole,Male,25,Port Harcourt,Gold,Fashion,194.21,13,2022-06-09
+C0725,Brenda,Male,58,Enugu,Gold,Home,276.6,2,2025-02-27
+C0726,Karen,Male,56,Lagos,Gold,Sports,74.51,3,2024-11-06
+C0727,Daisy,Female,18,Lagos,Platinum,Home,253.58,5,2023-01-09
+C0728,Tony,Male,20,Enugu,Platinum,Fashion,423.3,11,2020-12-31
+C0729,Damon,Male,30,Abuja,Platinum,Sports,289.36,8,2025-01-24
+C0730,Kevin,Female,45,Ibadan,Gold,Home,454.75,26,2024-11-19
+C0731,Michael,Female,66,Abuja,Platinum,Home,215.67,23,2022-10-20
+C0732,Kevin,Female,42,Abuja,Silver,Sports,361.95,23,2024-03-18
+C0733,Matthew,Male,50,Ibadan,Gold,Home,447.41,12,2021-01-27
+C0734,Kimberly,Female,55,Abuja,Gold,Electronics,447.79,7,2021-08-29
+C0735,Craig,Female,23,Ibadan,Gold,Electronics,225.81,15,2022-07-23
+C0736,Gary,Male,61,Enugu,Gold,Fashion,481.22,24,2020-08-24
+C0737,Tiffany,Female,62,Ibadan,Gold,Fashion,124.14,17,2022-06-02
+C0738,Brandi,Female,49,Lagos,Silver,Electronics,116.58,4,2022-10-31
+C0739,Aaron,Female,62,Ibadan,Platinum,Electronics,141.92,29,2024-04-01
+C0740,Holly,Female,64,Abuja,Silver,Electronics,60.21,22,2021-07-28
+C0741,Sue,Female,38,Enugu,Platinum,Sports,357.08,25,2021-03-26
+C0742,Drew,Male,33,Ibadan,Platinum,Fashion,263.26,13,2024-08-04
+C0743,Lauren,Male,38,Abuja,Silver,Home,381.97,18,2024-03-01
+C0744,Madeline,Female,28,Ibadan,Platinum,Sports,,1,2020-12-23
+C0745,Adam,Female,54,Enugu,Platinum,Fashion,59.92,16,2021-05-22
+C0746,Joshua,Female,53,Enugu,Silver,Fashion,425.73,13,2023-12-10
+C0747,Caroline,Female,52,Lagos,Platinum,Home,201.14,10,2025-02-05
+C0748,Elizabeth,Female,36,Enugu,Gold,Electronics,345.09,12,2023-07-17
+C0749,Laura,Male,37,Abuja,Platinum,Electronics,268.77,2,2022-01-10
+C0750,Timothy,Female,35,Enugu,Silver,Fashion,288.57,23,2023-04-17
+C0751,Jonathan,Male,64,Enugu,Gold,Fashion,256.1,3,2022-07-07
+C0752,Beth,Female,58,Abuja,Gold,Fashion,454.23,10,2023-08-06
+C0753,William,Female,66,Abuja,Platinum,Fashion,405.17,2,2021-06-19
+C0754,Tamara,Female,31,Enugu,Silver,Sports,217.36,27,2025-01-19
+C0755,Kathleen,Male,32,Enugu,Gold,Electronics,430.48,23,2022-08-19
+C0756,Jeremy,Female,48,Ibadan,Platinum,Sports,177.97,13,2021-08-31
+C0757,David,Male,18,Enugu,Gold,Home,328.38,13,2023-11-11
+C0758,Jessica,Female,20,Lagos,Silver,Electronics,290.89,18,2025-03-10
+C0759,Mary,Female,33,Lagos,Platinum,Home,128.91,3,2024-06-23
+C0760,Joseph,Male,40,Lagos,Gold,Sports,457.12,27,2021-12-03
+C0761,Arthur,Male,28,Lagos,Silver,Electronics,122.56,7,2020-09-11
+C0762,Michael,Female,29,Enugu,Gold,Home,497.2,14,2024-04-17
+C0763,Kristen,Female,27,Ibadan,Platinum,Home,248.4,20,2022-11-06
+C0764,Michael,Female,49,Abuja,Silver,Home,142.32,29,2023-12-16
+C0765,Xavier,Male,33,Enugu,Platinum,Fashion,349.5,17,2021-07-23
+C0766,David,Male,25,Port Harcourt,Gold,Sports,116.57,29,2024-01-08
+C0767,Mark,Female,55,Enugu,Gold,Electronics,488.96,21,2024-04-10
+C0768,Kathleen,Male,29,Lagos,Silver,Sports,104.67,12,2021-10-20
+C0769,Jessica,Female,41,Port Harcourt,Gold,Fashion,,25,2025-07-03
+C0770,Zachary,Female,45,Enugu,Platinum,Home,395.83,16,2025-03-17
+C0771,Vanessa,Female,25,Ibadan,Gold,Home,467.52,24,2023-12-20
+C0772,Grace,Male,45,Ibadan,Platinum,Sports,486.57,12,2021-03-26
+C0773,Elizabeth,Male,53,Port Harcourt,Gold,Electronics,278.33,15,2025-05-22
+C0774,Amanda,Male,43,Abuja,Platinum,Fashion,183.0,25,2024-07-29
+C0775,Dana,Male,25,Port Harcourt,Platinum,Fashion,486.32,10,2020-11-03
+C0776,Erin,Female,67,Ibadan,Platinum,,497.33,25,2023-01-16
+C0777,Elizabeth,Male,45,Port Harcourt,Gold,Fashion,409.81,7,2023-04-22
+C0778,Amy,Female,45,Lagos,Platinum,Fashion,465.03,20,2024-06-07
+C0779,James,Male,54,Lagos,Silver,Electronics,100.54,5,2020-10-18
+C0780,Cathy,Male,58,Abuja,Gold,Sports,68.04,1,2024-04-12
+C0781,David,Male,53,Port Harcourt,Platinum,Electronics,102.59,17,2022-02-24
+C0782,Melissa,Female,44,Port Harcourt,Platinum,Sports,,3,2024-07-16
+C0783,Yesenia,Male,34,Port Harcourt,Platinum,Fashion,149.16,13,2025-01-23
+C0784,George,Male,26,Port Harcourt,Platinum,Sports,196.86,14,2025-06-08
+C0785,Kenneth,Female,50,Abuja,Silver,,137.82,24,2022-02-01
+C0786,Mary,Female,37,Ibadan,Silver,,401.58,18,2021-10-21
+C0787,Amy,Female,30,Enugu,Silver,Fashion,138.07,4,2025-05-28
+C0788,Ross,Female,45,Abuja,Platinum,Electronics,432.25,18,2024-03-28
+C0789,Phyllis,Female,65,Ibadan,Platinum,Fashion,480.93,5,2021-06-07
+C0790,Mary,Female,46,Ibadan,Gold,,227.49,25,2024-02-24
+C0791,Pamela,Male,30,Ibadan,Silver,Fashion,321.43,16,2020-08-31
+C0792,Carol,Female,63,Port Harcourt,Platinum,Sports,75.22,1,2021-02-06
+C0793,Adam,Male,52,Abuja,Platinum,Electronics,228.9,21,2021-07-28
+C0794,Samantha,Female,23,Ibadan,Silver,Home,242.44,14,2024-09-24
+C0795,Charles,Male,35,Enugu,Platinum,Fashion,55.49,15,2024-02-03
+C0796,Daniel,Male,68,Enugu,Platinum,Sports,188.64,9,2021-10-08
+C0797,Joseph,Male,22,Lagos,Platinum,Fashion,302.46,15,2020-11-29
+C0798,Joseph,Female,64,Ibadan,Platinum,Sports,449.51,17,2020-09-16
+C0799,Andrew,Female,42,Abuja,Gold,Fashion,237.02,25,2024-09-18
+C0800,Stanley,Female,19,Port Harcourt,Gold,Home,123.71,24,2023-04-26
+C0801,Felicia,Female,27,Lagos,Gold,Home,453.98,4,2022-07-26
+C0802,Adam,Male,47,Ibadan,Silver,Electronics,236.39,12,2023-05-28
+C0803,Laura,Female,67,Port Harcourt,Silver,Sports,319.07,27,2023-01-28
+C0804,Lucas,Female,62,Abuja,Silver,Electronics,186.45,26,2021-10-10
+C0805,Jeanette,Female,22,Abuja,Gold,Sports,286.39,5,2022-03-20
+C0806,Jason,Male,50,Lagos,Silver,Electronics,469.92,29,2022-01-28
+C0807,Jordan,Female,18,Lagos,Platinum,Electronics,219.1,5,2023-11-07
+C0808,Maria,Female,35,Ibadan,Platinum,Electronics,,11,2023-10-06
+C0809,Ryan,Female,49,Port Harcourt,Platinum,,173.0,28,2025-07-05
+C0810,Timothy,Female,64,Enugu,Platinum,Electronics,257.95,6,2022-09-01
+C0811,David,Female,66,Port Harcourt,Platinum,Sports,461.69,7,2022-06-12
+C0812,Michael,Female,28,Abuja,Platinum,Home,424.53,24,2023-05-30
+C0813,Marcus,Female,38,Abuja,Platinum,Sports,270.76,14,2021-12-05
+C0814,Jeffrey,Male,43,Ibadan,Silver,Sports,185.9,24,2021-09-08
+C0815,Dorothy,Male,42,Enugu,Gold,Sports,272.35,11,2022-01-22
+C0816,Brittany,Female,39,Ibadan,Gold,Electronics,151.03,13,2023-02-06
+C0817,George,Male,44,Abuja,Gold,Home,119.31,2,2022-03-23
+C0818,Deborah,Female,66,Abuja,Gold,Fashion,338.25,25,2022-07-21
+C0819,James,Male,30,Port Harcourt,Platinum,Electronics,105.88,7,2021-09-06
+C0820,Omar,Female,50,Enugu,Platinum,Sports,179.46,20,2023-03-17
+C0821,Jorge,Female,51,Port Harcourt,Platinum,Electronics,458.06,4,2025-05-06
+C0822,Stephanie,Female,58,Port Harcourt,Platinum,Electronics,62.8,27,2020-11-03
+C0823,Lori,Female,52,Ibadan,Silver,Electronics,271.87,8,2024-08-30
+C0824,Daniel,Male,18,Port Harcourt,Gold,Sports,319.5,20,2023-04-09
+C0825,Kevin,Female,38,Lagos,Silver,Home,266.22,29,2024-06-25
+C0826,Spencer,Male,65,Lagos,Gold,Electronics,166.06,22,2022-08-06
+C0827,Richard,Male,23,Port Harcourt,Silver,Home,488.42,21,2021-08-22
+C0828,Lori,Female,45,Enugu,Gold,Sports,217.94,19,2022-02-20
+C0829,Angela,Male,34,Port Harcourt,Gold,Home,57.9,13,2024-01-30
+C0830,Mikayla,Female,22,Abuja,Silver,Sports,311.74,14,2025-04-08
+C0831,Nicole,Male,48,Abuja,Silver,Sports,257.47,10,2024-10-23
+C0832,Thomas,Female,22,Enugu,Platinum,Sports,210.82,11,2020-10-17
+C0833,Brian,Male,55,Ibadan,Silver,Sports,212.52,2,2022-08-22
+C0834,Kimberly,Male,20,Lagos,Gold,Home,479.82,25,2025-06-06
+C0835,Kevin,Female,40,Lagos,Gold,Sports,,26,2021-09-07
+C0836,Ryan,Male,54,Ibadan,Gold,Electronics,337.53,9,2024-05-27
+C0837,Kevin,Male,54,Port Harcourt,Gold,Sports,137.22,17,2022-11-26
+C0838,April,Female,27,Enugu,Silver,Fashion,394.11,26,2022-02-16
+C0839,Gregory,Female,27,Port Harcourt,Platinum,Sports,125.21,3,2024-01-18
+C0840,Nicholas,Female,36,Ibadan,Gold,Electronics,192.29,24,2025-06-30
+C0841,Ricky,Female,34,Enugu,Gold,Electronics,409.94,6,2021-10-09
+C0842,Evan,Male,38,Lagos,Gold,Fashion,364.09,5,2023-04-21
+C0843,Jessica,Female,31,Lagos,Silver,Sports,290.49,5,2022-05-29
+C0844,Bianca,Female,26,Port Harcourt,Gold,,114.67,22,2024-12-15
+C0845,Kiara,Female,63,Abuja,Platinum,Home,176.64,15,2022-02-20
+C0846,Mary,Female,18,Ibadan,Platinum,,235.4,23,2022-02-12
+C0847,Brittany,Male,68,Ibadan,Gold,,123.36,17,2024-01-04
+C0848,Mary,Male,62,Port Harcourt,Gold,Sports,276.52,9,2025-03-10
+C0849,Corey,Male,30,Ibadan,Silver,Home,407.8,3,2020-11-19
+C0850,Patricia,Female,21,Lagos,Gold,Electronics,360.34,20,2024-09-20
+C0851,Joseph,Male,18,Port Harcourt,Silver,Fashion,430.73,26,2022-05-01
+C0852,Lauren,Male,66,Lagos,Platinum,Sports,366.02,17,2022-09-10
+C0853,Lawrence,Female,57,Enugu,Silver,,237.81,29,2024-06-01
+C0854,Christopher,Male,49,Enugu,Silver,Home,102.45,27,2022-03-04
+C0855,Matthew,Male,51,Abuja,Gold,Fashion,57.82,10,2021-05-16
+C0856,Betty,Female,45,Ibadan,Platinum,Electronics,360.97,3,2024-06-20
+C0857,Mariah,Male,48,Enugu,Silver,Electronics,248.87,18,2021-02-28
+C0858,Andrea,Female,25,Ibadan,Platinum,Electronics,285.4,18,2021-06-06
+C0859,Alexis,Male,56,Lagos,Silver,Sports,127.49,17,2021-11-21
+C0860,Michele,Male,43,Port Harcourt,Platinum,Sports,385.01,24,2022-12-28
+C0861,Debra,Female,51,Enugu,Silver,Fashion,107.92,3,2023-05-15
+C0862,Julie,Male,20,Port Harcourt,Platinum,Electronics,359.62,3,2024-06-01
+C0863,John,Female,67,Enugu,Silver,Home,144.43,6,2023-09-04
+C0864,Krista,Female,29,Ibadan,Platinum,Home,241.16,13,2023-08-22
+C0865,Carrie,Female,18,Enugu,Silver,Home,100.27,24,2021-11-04
+C0866,Andrew,Female,61,Enugu,Gold,Fashion,,29,2025-05-31
+C0867,Roger,Male,22,Lagos,Platinum,Sports,244.06,15,2023-04-07
+C0868,Jessica,Male,47,Abuja,Gold,Home,64.76,25,2024-11-03
+C0869,Tara,Female,47,Lagos,Gold,Electronics,316.93,9,2024-09-16
+C0870,John,Male,34,Port Harcourt,Silver,Home,458.84,4,2023-04-23
+C0871,Lauren,Male,65,Ibadan,Gold,Electronics,,14,2023-12-14
+C0872,Marcus,Male,64,Ibadan,Platinum,Home,54.62,5,2021-08-02
+C0873,Alexis,Male,40,Enugu,Silver,Home,105.71,2,2024-05-20
+C0874,Melissa,Female,32,Ibadan,Silver,Sports,314.42,11,2021-07-12
+C0875,Jennifer,Male,54,Abuja,Platinum,Fashion,351.77,9,2022-05-05
+C0876,Laurie,Female,38,Abuja,Platinum,Sports,,24,2023-05-06
+C0877,Donald,Male,31,Enugu,Gold,Electronics,385.79,3,2021-02-16
+C0878,Kristin,Male,19,Enugu,Gold,Home,310.89,27,2025-06-12
+C0879,Daniel,Female,28,Port Harcourt,Silver,,434.81,28,2022-06-26
+C0880,Jennifer,Female,68,Enugu,Platinum,Fashion,325.83,29,2023-01-19
+C0881,Laura,Female,56,Lagos,Platinum,Fashion,80.75,9,2025-07-22
+C0882,Mark,Female,55,Lagos,Silver,Sports,393.46,3,2022-11-18
+C0883,Suzanne,Male,51,Lagos,Gold,Electronics,372.12,25,2021-07-05
+C0884,Erik,Female,55,Abuja,Platinum,Home,127.3,2,2021-05-08
+C0885,Deborah,Female,67,Ibadan,Gold,Electronics,51.95,12,2024-08-28
+C0886,Bradley,Male,51,Port Harcourt,Gold,Home,465.9,10,2022-08-18
+C0887,Chad,Male,35,Enugu,Silver,,433.08,9,2021-02-10
+C0888,Matthew,Female,47,Port Harcourt,Platinum,Sports,364.16,15,2025-06-18
+C0889,Adam,Female,32,Abuja,Silver,Fashion,353.09,8,2023-01-20
+C0890,Robert,Female,44,Enugu,Silver,Home,425.63,25,2021-07-25
+C0891,Sharon,Female,68,Enugu,Gold,Fashion,240.84,5,2022-04-05
+C0892,Wesley,Female,51,Abuja,Platinum,Fashion,233.41,11,2023-06-10
+C0893,Paul,Female,69,Ibadan,Silver,Fashion,191.43,27,2023-01-17
+C0894,Robert,Female,55,Enugu,Platinum,Fashion,283.88,2,2021-12-28
+C0895,Christine,Male,50,Ibadan,Silver,Fashion,212.56,24,2022-05-07
+C0896,Paul,Female,41,Abuja,Platinum,Home,374.96,28,2022-02-23
+C0897,Amy,Female,32,Port Harcourt,Silver,Electronics,272.17,15,2022-07-14
+C0898,Paul,Male,47,Enugu,Gold,Electronics,255.63,6,2021-05-29
+C0899,Joshua,Male,59,Ibadan,Gold,Sports,359.17,8,2024-11-21
+C0900,Edward,Female,68,Enugu,Silver,Electronics,151.64,27,2023-05-06
+C0901,Elizabeth,Female,34,Ibadan,Gold,Home,493.23,5,2021-01-10
+C0902,Jennifer,Female,22,Enugu,Silver,Sports,435.55,16,2021-01-01
+C0903,Thomas,Female,46,Enugu,Gold,Home,411.1,26,2022-07-14
+C0904,Jessica,Male,21,Enugu,Platinum,Home,215.35,18,2021-06-22
+C0905,Meredith,Female,27,Port Harcourt,Gold,Fashion,,6,2024-01-08
+C0906,Brian,Female,34,Enugu,Platinum,,352.44,5,2023-11-15
+C0907,Patricia,Male,27,Ibadan,Platinum,Sports,285.2,28,2021-07-19
+C0908,Morgan,Male,34,Port Harcourt,Gold,Electronics,103.65,16,2024-09-13
+C0909,Michael,Female,37,Lagos,Platinum,Sports,362.77,13,2023-05-29
+C0910,Benjamin,Female,41,Ibadan,Gold,Fashion,383.64,28,2023-10-31
+C0911,Robin,Male,22,Ibadan,Platinum,Electronics,125.93,5,2021-07-24
+C0912,Brandi,Female,51,Lagos,Gold,Sports,139.59,13,2022-10-04
+C0913,Christopher,Male,23,Port Harcourt,Platinum,Electronics,429.81,17,2023-05-05
+C0914,Frank,Male,19,Enugu,Silver,,154.79,18,2025-06-05
+C0915,Seth,Female,30,Ibadan,Gold,Electronics,274.6,8,2024-03-31
+C0916,Dawn,Male,60,Lagos,Gold,Home,394.69,13,2025-01-14
+C0917,Steven,Male,60,Enugu,Gold,Home,390.34,29,2024-02-23
+C0918,Diana,Male,65,Port Harcourt,Platinum,Sports,474.45,19,2024-06-10
+C0919,Kathleen,Female,28,Ibadan,Silver,Home,350.0,26,2022-06-23
+C0920,Jeremy,Female,68,Enugu,Platinum,Sports,494.39,3,2022-02-22
+C0921,Rebecca,Male,64,Enugu,Platinum,Sports,116.32,24,2024-05-28
+C0922,Robert,Female,40,Abuja,Gold,Home,104.99,8,2021-06-24
+C0923,Natasha,Male,33,Lagos,Platinum,Sports,153.87,2,2024-04-01
+C0924,William,Male,48,Enugu,Platinum,Fashion,63.38,8,2021-09-16
+C0925,Amanda,Female,28,Port Harcourt,Silver,Fashion,423.64,27,2022-10-05
+C0926,Jamie,Female,33,Abuja,Platinum,Home,62.04,13,2023-07-29
+C0927,Michael,Female,25,Enugu,Silver,Sports,322.06,13,2022-04-24
+C0928,Micheal,Male,21,Enugu,Gold,Fashion,186.24,1,2022-08-19
+C0929,Susan,Male,57,Port Harcourt,Silver,Fashion,392.08,6,2024-05-18
+C0930,Eric,Male,21,Abuja,Silver,Electronics,283.98,24,2023-06-17
+C0931,Bradley,Female,42,Abuja,Gold,Sports,259.71,19,2021-02-07
+C0932,Willie,Female,20,Lagos,Silver,Home,274.05,16,2021-02-07
+C0933,Ebony,Male,49,Enugu,Silver,Home,294.1,8,2023-11-02
+C0934,Michelle,Female,20,Lagos,Gold,Electronics,293.24,28,2022-07-13
+C0935,Alexis,Female,44,Abuja,Platinum,Fashion,,1,2021-03-21
+C0936,Benjamin,Female,46,Lagos,Silver,,495.82,27,2023-03-15
+C0937,Darryl,Female,49,Port Harcourt,Platinum,Sports,103.61,27,2022-10-16
+C0938,Alisha,Male,67,Ibadan,Gold,Electronics,433.79,16,2023-05-02
+C0939,Vincent,Female,68,Port Harcourt,Gold,Home,66.19,9,2023-04-22
+C0940,Jennifer,Male,36,Abuja,Platinum,Home,346.73,13,2025-05-04
+C0941,April,Male,38,Port Harcourt,Silver,Home,448.12,11,2021-04-07
+C0942,Jose,Male,22,Abuja,Platinum,Sports,243.81,13,2023-08-14
+C0943,Kristina,Female,35,Port Harcourt,Gold,Fashion,225.09,25,2021-10-05
+C0944,Theresa,Female,45,Enugu,Gold,Fashion,305.98,21,2021-04-13
+C0945,Jennifer,Male,59,Enugu,Silver,Home,299.2,10,2021-01-06
+C0946,Nancy,Female,39,Port Harcourt,Gold,Sports,261.42,4,2024-04-22
+C0947,Edwin,Male,38,Lagos,Platinum,Sports,120.34,27,2024-02-21
+C0948,Paul,Female,23,Abuja,Platinum,Sports,168.53,6,2024-11-20
+C0949,Kimberly,Male,18,Enugu,Platinum,Sports,220.01,28,2020-09-29
+C0950,Shane,Female,22,Abuja,Platinum,Fashion,394.91,7,2021-03-09
+C0951,John,Female,58,Enugu,Silver,Home,77.64,5,2025-05-03
+C0952,Carla,Female,29,Ibadan,Platinum,Sports,107.69,11,2024-09-30
+C0953,Kaylee,Female,43,Port Harcourt,Silver,Electronics,414.3,13,2023-07-06
+C0954,Brian,Female,63,Enugu,Gold,,394.34,26,2025-02-11
+C0955,Sarah,Male,51,Port Harcourt,Gold,Home,221.26,25,2025-06-10
+C0956,Aaron,Male,66,Ibadan,Silver,Home,496.38,19,2020-07-30
+C0957,Mark,Female,31,Abuja,Silver,Sports,75.4,23,2021-02-03
+C0958,Michael,Male,43,Port Harcourt,Gold,Sports,155.58,10,2024-07-28
+C0959,Michael,Female,62,Enugu,Gold,Home,88.22,10,2022-04-05
+C0960,Melissa,Male,44,Ibadan,Platinum,Sports,441.02,11,2023-11-16
+C0961,Melissa,Male,26,Enugu,Silver,Fashion,126.4,21,2025-05-08
+C0962,Amanda,Female,43,Ibadan,Gold,Fashion,66.82,7,2021-03-30
+C0963,Amy,Female,64,Ibadan,Silver,Home,240.11,18,2023-07-14
+C0964,Kevin,Female,39,Enugu,Gold,Electronics,239.53,4,2024-08-10
+C0965,Steven,Male,64,Port Harcourt,Silver,Sports,,2,2023-05-30
+C0966,Kristin,Male,47,Abuja,Silver,Electronics,60.01,14,2024-08-20
+C0967,Heather,Male,60,Abuja,Gold,Sports,306.66,13,2024-02-26
+C0968,Crystal,Male,65,Ibadan,Platinum,Electronics,93.98,29,2020-12-26
+C0969,Julie,Female,34,Enugu,Platinum,Electronics,360.89,12,2023-05-05
+C0970,Amanda,Female,43,Ibadan,Platinum,Fashion,273.53,7,2023-04-20
+C0971,Shelby,Male,53,Abuja,Gold,,350.32,2,2025-05-31
+C0972,Kristin,Male,18,Ibadan,Gold,Sports,184.78,13,2024-05-12
+C0973,Joanne,Male,25,Ibadan,Platinum,Fashion,140.79,14,2023-05-16
+C0974,Shannon,Male,66,Abuja,Gold,Sports,488.35,27,2021-01-20
+C0975,John,Female,52,Port Harcourt,Gold,Fashion,432.65,17,2023-11-23
+C0976,Ryan,Female,69,Ibadan,Platinum,Fashion,169.32,9,2020-12-04
+C0977,Lonnie,Female,32,Port Harcourt,Gold,,308.08,17,2022-12-04
+C0978,Deborah,Female,64,Ibadan,Gold,Home,331.06,8,2020-08-19
+C0979,David,Male,39,Enugu,Silver,Sports,372.97,2,2024-06-13
+C0980,Kirsten,Female,31,Ibadan,Silver,Home,316.34,28,2020-11-03
+C0981,Kathleen,Male,43,Ibadan,Platinum,Fashion,304.89,24,2021-03-29
+C0982,Isaiah,Female,45,Lagos,Silver,Fashion,242.2,13,2023-01-04
+C0983,Tracy,Female,40,Enugu,Silver,Sports,84.5,3,2025-05-15
+C0984,Martha,Female,31,Enugu,Gold,Sports,277.09,16,2022-12-18
+C0985,Justin,Male,41,Port Harcourt,Silver,Home,348.56,6,2025-04-11
+C0986,Michael,Female,19,Port Harcourt,Gold,Sports,236.44,19,2023-04-20
+C0987,James,Male,62,Ibadan,Silver,Electronics,281.92,7,2021-03-27
+C0988,Karina,Female,43,Abuja,Platinum,Home,296.4,10,2020-08-26
+C0989,Karen,Female,31,Ibadan,Gold,Fashion,332.53,9,2022-10-06
+C0990,Kristin,Male,68,Lagos,Silver,Electronics,133.94,2,2021-12-29
+C0991,Sarah,Female,24,Ibadan,Gold,Fashion,347.36,28,2021-08-02
+C0992,Louis,Male,20,Lagos,Platinum,Sports,472.15,28,2023-03-10
+C0993,Blake,Female,64,Ibadan,Platinum,Sports,337.07,15,2024-07-09
+C0994,Joyce,Female,40,Port Harcourt,Gold,Sports,433.75,5,2024-04-24
+C0995,Jonathan,Male,63,Ibadan,Platinum,Sports,470.59,29,2025-05-27
+C0996,David,Female,60,Port Harcourt,Platinum,Fashion,76.95,22,2024-05-12
+C0997,Allison,Female,64,Abuja,Silver,Home,258.12,4,2022-12-16
+C0998,Christopher,Male,62,Abuja,Platinum,Sports,385.9,20,2021-01-21
+C0999,Michael,Male,35,Enugu,Silver,Fashion,429.85,4,2021-12-17
+C1000,Erin,Female,55,Ibadan,Gold,Sports,437.08,18,2023-01-06
